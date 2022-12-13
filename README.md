@@ -42,4 +42,7 @@
 ![Todoist](http://img.shields.io/badge/-Todoist-E44332?style=flat-square&logo=todoist&logoColor=ffffff)
 ![Notion](http://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=ffffff)
 
+## Recent articles
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

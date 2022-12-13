@@ -1,0 +1,19 @@
+name: Fetch latest articles from Dev.to
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-devto-articles:
+    name: Update README with latest Dev.to articles
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Fetch articles and update README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/luafanti"
+          max_post_count: 5
