@@ -46,9 +46,9 @@ Human
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot logging with Loki, Promtail, and Grafana &lpar;Loki stack&rpar;](https://dev.to/luafanti/spring-boot-logging-with-loki-promtail-and-grafana-loki-stack-aep)
 - [Spring Boot monitoring with Prometheus Operator](https://dev.to/luafanti/spring-boot-monitoring-with-prometheus-operator-40g1)
 - [Switching between multiple versions of various tools](https://dev.to/luafanti/switching-between-multiple-versions-of-various-tools-3g1c)
 - [Subjective comparison of Security Testing products. Sonatype vs JFrog vs Snyk](https://dev.to/luafanti/subjective-comparison-of-security-testing-products-sonatype-vs-jfrog-vs-snyk-7d1)
 - [Injecting secrets from Vault into Helm charts with ArgoCD](https://dev.to/luafanti/injecting-secrets-from-vault-into-helm-charts-with-argocd-49k)
-- [Vault Auto-unseal using Transit Secret Engine on Kubernetes](https://dev.to/luafanti/vault-auto-unseal-using-transit-secret-engine-on-kubernetes-13k8)
 <!-- BLOG-POST-LIST:END -->
